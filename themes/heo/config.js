@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '体验人生',
   HEO_HERO_TITLE_3: '莫道桑榆',
   HEO_HERO_TITLE_4: '莫道桑榆',
-  HEO_HERO_TITLE_5: '莫道桑榆的个人博客,
+  HEO_HERO_TITLE_5: '莫道桑榆的个人博客',
   HEO_HERO_TITLE_LINK: 'https://aivolgger.com',
 
   // 英雄区显示三个置顶分类
