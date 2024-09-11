@@ -36,6 +36,7 @@ const Footer = ({ title }) => {
             {siteConfig('AUTHOR')}
           </a>
           .
+           本站作为一个独立的个人笔记订阅平台，不生产和发布任何内容， 所有笔记均源于作者本人编写，本站不存储任何数据，禁止发布涉及黄赌毒和违背道德和法律的笔记。 如果本站用户发布内容侵犯了您的权益，请及时联系我们或作者本人。我们将第一时间进行处理！联系邮箱：zuzippo@gmail.com                  
         </div>
 
         <div id='footer-bottom-right'>
